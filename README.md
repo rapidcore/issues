@@ -1,2 +1,3 @@
-# issues
-Repository for all public issues with the library
+# No longer used
+
+[RapidCore issues](https://github.com/rapidcore/rapidcore/issues)
